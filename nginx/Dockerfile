@@ -1,1 +1,1 @@
-FROM miaoxing/nginx:0.16.0
+FROM miaoxing/nginx:0.16.1

@@ -1,3 +1,11 @@
+## [0.1.2](https://github.com/miaoxing/docker/compare/v0.1.1...v0.1.2) (2022-09-03)
+
+
+### Features
+
+* **docker:** 更新镜像到 0.16.0，解决 crontab 默认不运行 ([4678de7](https://github.com/miaoxing/docker/commit/4678de76ff62f39263d1ca7f2fd6553c55906ce5))
+* 更新镜像到 0.16.0，支持 memcached 和 apcu ([b0e8891](https://github.com/miaoxing/docker/commit/b0e889176ff070e9e1baa0ce48fa80b614c62bb3))
+
 ## [0.1.1](https://github.com/miaoxing/docker/compare/v0.1.0...v0.1.1) (2022-03-31)
 
 

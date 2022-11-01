@@ -1,3 +1,10 @@
+## [0.1.3](https://github.com/miaoxing/docker/compare/v0.1.2...v0.1.3) (2022-11-01)
+
+
+### Features
+
+* **docker:** 更新镜像到 0.16.2，解决nginx 镜像未指定时区 ([58dc6d0](https://github.com/miaoxing/docker/commit/58dc6d00413f93b0241e0759ada68aab8351e77c))
+
 ## [0.1.2](https://github.com/miaoxing/docker/compare/v0.1.1...v0.1.2) (2022-09-03)
 
 

@@ -1,3 +1,10 @@
+## [0.1.5](https://github.com/miaoxing/docker/compare/v0.1.4...v0.1.5) (2025-05-01)
+
+
+### Bug Fixes
+
+* **docker:** 接口只需重写 api 路径 ([3fe1a4e](https://github.com/miaoxing/docker/commit/3fe1a4e591b84cbbd5a1e1c5983190853021bfdb))
+
 ## [0.1.4](https://github.com/miaoxing/docker/compare/v0.1.3...v0.1.4) (2023-04-15)
 
 
